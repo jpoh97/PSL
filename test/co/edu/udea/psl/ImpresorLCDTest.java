@@ -1,16 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package co.edu.udea.psl;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- * @author jpoh97
+ * Test for ImpresorLCD.java
+ * 
+ * @author Juan Pablo Ospina Herrera - jpoh97@gmail.com
+ * @since 1.8
+ * @version 1.0
+ * 
  */
 public class ImpresorLCDTest {
 
